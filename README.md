@@ -5,30 +5,20 @@ This project demonstrates basic CRUD operations (Create, Read, Update, Delete) o
 
 📌 Tech Stack
 
-
-
-
-
-
-
-
 ✨ Features
 
-🔗 MySQL + JDBC connection (Connector/J)
+  🔗 MySQL + JDBC connection (Connector/J)
 
-🗄️ Students Table → id, name, email, age
+   🗄️ Students Table → id, name, email, age
 
 ⚡ CRUD Operations
 
-➕ Add new student
+     ➕ Add new student
 
-📋 View all students
+     📋 View all students
 
-✏️ Update student by ID
+     ❌ Delete student by ID
 
-❌ Delete student by ID
-
-🔍 Search students by name
 
 🔐 PreparedStatement to prevent SQL Injection
 
